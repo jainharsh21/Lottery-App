@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lottery-App/static/css/main.b65e61ec.chunk.css",
+    "main.js": "/Lottery-App/static/js/main.f68ec976.chunk.js",
+    "main.js.map": "/Lottery-App/static/js/main.f68ec976.chunk.js.map",
+    "runtime-main.js": "/Lottery-App/static/js/runtime-main.e293ea97.js",
+    "runtime-main.js.map": "/Lottery-App/static/js/runtime-main.e293ea97.js.map",
+    "static/js/2.71a52293.chunk.js": "/Lottery-App/static/js/2.71a52293.chunk.js",
+    "static/js/2.71a52293.chunk.js.map": "/Lottery-App/static/js/2.71a52293.chunk.js.map",
+    "index.html": "/Lottery-App/index.html",
+    "precache-manifest.6b6caa3c2ba1706c74ada95143c784d7.js": "/Lottery-App/precache-manifest.6b6caa3c2ba1706c74ada95143c784d7.js",
+    "service-worker.js": "/Lottery-App/service-worker.js",
+    "static/css/main.b65e61ec.chunk.css.map": "/Lottery-App/static/css/main.b65e61ec.chunk.css.map",
+    "static/js/2.71a52293.chunk.js.LICENSE.txt": "/Lottery-App/static/js/2.71a52293.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e293ea97.js",
+    "static/js/2.71a52293.chunk.js",
+    "static/css/main.b65e61ec.chunk.css",
+    "static/js/main.f68ec976.chunk.js"
+  ]
+}
